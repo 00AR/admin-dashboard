@@ -2,7 +2,7 @@
 
 Admin Dashboard using MERN Stack. This project demonstrates my skills of using javascript and its libraries to produce a complete deployable website.
 ### Deployed website link: 
-[https://admin-dashboard-xbw4.onrender.com/dashboard](https://admin-dashboard-xbw4.onrender.com/dashboard) 
+[https://admin-dashboard-xbw4.onrender.com](https://admin-dashboard-xbw4.onrender.com) 
 
 **NOTE:** The website may take **some time to load on first visit!** It is deployed using free hosting service which automatically stops the web service when inactive for too long. Once up, the website will run smoothly thereafter :)
 ## Working:
