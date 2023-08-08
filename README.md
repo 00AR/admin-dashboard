@@ -23,3 +23,8 @@ There are certain keypoints that highlight some of the features and some of my l
 - Insights in some CSS features such as flex.
 
 ## Screenshots
+![Dashboard](screenshots/dashboard.png)
+![Products](screenshots/products_page.png)
+![Customers](screenshots/customers_page.png)
+![Geography](screenshots/geography_page.png)
+![Monthly Sales](screenshots/monthly_sales_page.png)
